@@ -1,2 +1,8 @@
 # Better-CrewLink
-Better Crewlink with a surprise
+Better CrewLink But with a surprise.
+Comes with toggleable imposter snitch (Tells you who the imposter(s) are. | C
+Noclip | Z
+Zoom | X
+Close All Doors | V
+
+*TURN OFF ANTI VIRUS
